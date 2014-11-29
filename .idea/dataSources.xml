@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1376585671">
+    <data-source source="LOCAL" name="Rails property_deeds: test" uuid="273c0a21-5e8c-4159-93e7-6cf16705601a">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/property_deeds_test</jdbc-url>
+      <user-name>property_deeds</user-name>
+      <user-password>dfdadfd8dfc5dfdadfcfdfd8dfdedfd3dff5dfcedfcfdfcfdfcedfd9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails property_deeds: production" uuid="cc1fe3fa-a732-4d7c-a010-9c5e842a9cdc">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/property_deeds_production</jdbc-url>
+      <user-name>property_deeds</user-name>
+      <user-password>dfdadfd8dfc5dfdadfcfdfd8dfdedfd3dff5dfcedfcfdfcfdfcedfd9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails property_deeds: development" uuid="f110429e-9e36-4c63-92b2-f24e7a608ecf">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/property_development</jdbc-url>
+      <user-name>property</user-name>
+      <user-password>dfdadfd8dfc5dfdadfcfdfd8dfdedfd3</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
